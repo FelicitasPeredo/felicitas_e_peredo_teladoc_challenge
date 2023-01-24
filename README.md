@@ -14,15 +14,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 
-git clone https://github.com/FelicitasPeredo/felicitas_peredo_teladoc_challenge.git
+_git clone https://github.com/FelicitasPeredo/felicitas_peredo_teladoc_challenge.git_
 
 2. Install the required packages
 
-pip install selenium
-pip install pytest
-pip install webdriver-manager
+_pip install selenium_
+_pip install pytest_
+_pip install webdriver-manager_
 
 3. Run the test
 
-cd Tests
-pytest .\test_exercise.py
+_cd Tests_
+_pytest .\test_exercise.py_
