@@ -15,3 +15,4 @@ class Locators():
     delete_confirmation_btn = '//button[contains(text(), "OK")]'
     delete_user_btn = '//tbody/tr/td[text()="ReplaceMe"]/parent::tr/td/button[@ng-click="delUser()"]'
     table_cell = '//tbody/tr/td[text()="ReplaceMe"]'
+    

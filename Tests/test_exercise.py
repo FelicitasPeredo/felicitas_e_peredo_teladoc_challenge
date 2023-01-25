@@ -29,3 +29,4 @@ class TestCases():
         #validate the user was deleted from the table
         deleted = way2automation_page.validate_deleted_user(user)
         assert deleted
+        

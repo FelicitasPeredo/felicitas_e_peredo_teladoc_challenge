@@ -3,7 +3,6 @@ from Config.locators import Locators
 from selenium.common.exceptions import NoSuchElementException
 
 class Way2AutomationPage(BasePage):
-
     #initializer
     def __init__(self, driver):
         super().__init__(driver)

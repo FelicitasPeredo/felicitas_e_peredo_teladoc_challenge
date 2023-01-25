@@ -44,3 +44,4 @@ class BasePage():
     def get_attribute(self, locator, attribute):
         return self.find_element(locator).get_attribute(attribute)
 
+
